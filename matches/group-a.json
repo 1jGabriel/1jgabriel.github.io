@@ -8,8 +8,14 @@
                         "name": "AL BAYT",
                         "image": "https://1jgabriel.github.io/statics/Al-Bayt-Stadium.webp"
                     },
-                    "team1": "QA",
-                    "team2": "EC",
+                    "team1": {
+                        "name": "Catar",
+                        "flag": "🇶🇦"
+                    },
+                    "team2": {
+                        "name": "Equador",
+                        "flag": "🇪🇨"
+                    },
                     "date": "2022-11-20T16:00:00Z"
                 },
                 {
@@ -17,8 +23,14 @@
                         "name": "AL THUMAMA",
                         "image": "https://1jgabriel.github.io/statics/Al-Thumama-Stadium.jpeg"
                     },
-                    "team1": "SN",
-                    "team2": "NL",
+                    "team1": {
+                        "name": "Senegal",
+                        "flag": "🇸🇳"
+                    },
+                    "team2": {
+                        "name": "Holanda",
+                        "flag": "🇳🇱"
+                    },
                     "date": "2022-11-21T16:00:00Z"
                 }
             ]
@@ -31,8 +43,14 @@
                         "name": "AL THUMAMA",
                         "image": "https://1jgabriel.github.io/statics/Al-Thumama-Stadium.jpeg"
                     },
-                    "team1": "QA",
-                    "team2": "SN",
+                    "team1":{
+                        "name": "Catar",
+                        "flag": "🇶🇦"
+                    },
+                    "team2": {
+                        "name": "Senegal",
+                        "flag": "🇸🇳"
+                    },
                     "date": "2022-11-25T13:00:00Z"
                 },
                 {
@@ -40,8 +58,14 @@
                         "name": "INTERNACIONAL KHALIFA",
                         "image": "https://1jgabriel.github.io/statics/Khalifa-International-Stadium.jpeg"
                     },
-                    "team1": "NL",
-                    "team2": "EC",
+                    "team1": {
+                        "name": "Holanda",
+                        "flag": "🇳🇱"
+                    },
+                    "team2": {
+                        "name": "Equador",
+                        "flag": "🇪🇨"
+                    },
                     "date": "2022-11-25T16:00:00Z"
                 }
             ]
@@ -54,8 +78,14 @@
                         "name": "AL BAYT",
                         "image": "https://1jgabriel.github.io/statics/Al-Bayt-Stadium.webp"
                     },
-                    "team1": "NL",
-                    "team2": "QA",
+                    "team1": {
+                        "name": "Holanda",
+                        "flag": "🇳🇱"
+                    },
+                    "team2": {
+                        "name": "Catar",
+                        "flag": "🇶🇦"
+                    },
                     "date": "2022-11-29T15:00:00Z"
                 },
                 {
@@ -63,8 +93,14 @@
                         "name": "INTERNACIONAL KHALIFA",
                         "image": "https://1jgabriel.github.io/statics/Khalifa-International-Stadium.jpeg"
                     },
-                    "team1": "EC",
-                    "team2": "SN",
+                    "team1": {
+                        "name": "Equador",
+                        "flag": "🇪🇨"
+                    },
+                    "team2": {
+                        "name": "Senegal",
+                        "flag": "🇸🇳"
+                    },
                     "date": "2022-11-29T15:00:00Z"
                 }
             ]
