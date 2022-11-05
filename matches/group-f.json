@@ -1,0 +1,73 @@
+{
+    "rounds": [
+        {
+            "name": "1ª RODADA",
+            "matches": [
+                {
+                    "stadium":{
+                        "name":"AL BAYT",
+                        "image":"https://1jgabriel.github.io/statics/statics/Al-Bayt-Stadium.webp"
+                     },
+                    "team1": {"flag":"🇲🇦", "name": "Marrocos"},
+                    "team2": {"flag":"🇭🇷", "name": "Croácia"},
+                    "date": "2022-11-23T13:00:00Z"
+                },
+                {
+                    "stadium": {
+                        "name": "AHMAD BIN ALI",
+                        "image": "https://1jgabriel.github.io/statics/Ahmad-Bin-Ali-Stadium.jpeg"
+                    },
+                    "team1": {"flag":"🇧🇪", "name": "Bélgica"},
+                    "team2": {"flag":"🇨🇦", "name": "Canadá"},
+                    "date": "2022-11-23T16:00:00Z"
+                }
+            ]
+        },
+        {
+            "name": "2ª RODADA",
+            "matches": [
+                {
+                    "stadium":{
+                        "name":"AL THUMAMA",
+                        "image":"https://1jgabriel.github.io/statics/Al-Thumama-Stadium.jpeg"
+                     },
+                    "team1": {"flag":"🇧🇪", "name": "Bélgica"},
+                    "team2": {"flag":"🇲🇦", "name": "Marrocos"},
+                    "date": "2022-11-27T10:00:00Z"
+                },
+                {
+                    "stadium":{
+                        "name":"INTERNACIONAL KHALIFA",
+                        "image":"https://1jgabriel.github.io/statics/Khalifa-International-Stadium.jpeg"
+                     },
+                    "team1": {"flag":"🇭🇷", "name": "Croácia"},
+                    "team2": {"flag":"🇨🇦", "name": "Canadá"},
+                    "date": "2022-11-27T19:00:00Z"
+                }
+            ]
+        },
+        {
+            "name": "3ª RODADA",
+            "matches": [
+                {
+                    "stadium": {
+                        "name": "AHMAD BIN ALI",
+                        "image": "https://1jgabriel.github.io/statics/Ahmad-Bin-Ali-Stadium.jpeg"
+                    },
+                    "team1": {"flag":"🇭🇷", "name": "Croácia"},
+                    "team2": {"flag":"🇧🇪", "name": "Bélgica"},
+                    "date": "2022-12-01T15:00:00Z"
+                },
+                {
+                    "stadium":{
+                        "name":"AL THUMAMA",
+                        "image":"https://1jgabriel.github.io/statics/Al-Thumama-Stadium.jpeg"
+                     },
+                    "team1": {"flag":"🇨🇦", "name": "Canadá"},
+                    "team2": {"flag":"🇲🇦", "name": "Marrocos"},
+                    "date": "2022-12-01T15:00:00Z"
+                }
+            ]
+        }
+    ]
+}

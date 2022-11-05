@@ -1,0 +1,73 @@
+{
+    "rounds": [
+        {
+            "name": "1ª RODADA",
+            "matches": [
+                {
+                    "stadium": {
+                        "name": "CIDADE DA EDUCAÇÃO",
+                        "image": "https://1jgabriel.github.io/statics/Education-City-Stadium.webp"
+                    },
+                    "team1": {"flag":"🇩🇰", "name": "Dinamarca"},
+                    "team2": {"flag":"🇹🇳", "name": "Tunísia"},
+                    "date": "2022-11-22T13:00:00Z"
+                },
+                {
+                    "stadium": {
+                        "name": "AL JANOUB",
+                        "image": "https://1jgabriel.github.io/statics/Al-Janoub-Stadium.jpeg"
+                    },
+                    "team1": {"flag":"🇫🇷", "name": "França"},
+                    "team2": {"flag":"🇦🇺", "name": "Austrália"},
+                    "date": "2022-11-22T19:00:00Z"
+                }
+            ]
+        },
+        {
+            "name": "2ª RODADA",
+            "matches": [
+                {
+                    "stadium": {
+                        "name": "AL JANOUB",
+                        "image": "https://1jgabriel.github.io/statics/Al-Janoub-Stadium.jpeg"
+                    },
+                    "team1": {"flag":"🇹🇳", "name": "Tunísia"},
+                    "team2": {"flag":"🇦🇺", "name": "Austrália"},
+                    "date": "2022-11-26T10:00:00Z"
+                },
+                {
+                    "stadium": {
+                        "name": "ESTÁDIO 974",
+                        "image": "https://1jgabriel.github.io/statics/Stadium-974.jpeg"
+                    },
+                    "team1": {"flag":"🇫🇷", "name": "França"},
+                    "team2": {"flag":"🇩🇰", "name": "Dinamarca"},
+                    "date": "2022-11-26T16:00:00Z"
+                }
+            ]
+        },
+        {
+            "name": "3ª RODADA",
+            "matches": [
+                {
+                    "stadium": {
+                        "name": "CIDADE DA EDUCAÇÃO",
+                        "image": "https://1jgabriel.github.io/statics/Education-City-Stadium.webp"
+                    },
+                    "team1": {"flag":"🇹🇳", "name": "Tunísia"},
+                    "team2": {"flag":"🇫🇷", "name": "França"},
+                    "date": "2022-11-30T15:00:00Z"
+                },
+                {
+                    "stadium": {
+                        "name": "AL JANOUB",
+                        "image": "https://1jgabriel.github.io/statics/Al-Janoub-Stadium.jpeg"
+                    },
+                    "team1": {"flag":"🇦🇺", "name": "Austrália"},
+                    "team2": {"flag":"🇩🇰", "name": "Dinamarca"},
+                    "date": "2022-11-30T15:00:00Z"
+                }
+            ]
+        }
+    ]
+}

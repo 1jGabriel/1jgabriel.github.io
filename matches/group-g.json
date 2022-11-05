@@ -1,0 +1,73 @@
+{
+    "rounds": [
+        {
+            "name": "1ª RODADA",
+            "matches": [
+                {
+                    "stadium":{
+                        "name":"AL JANOUB",
+                        "image":"https://1jgabriel.github.io/statics/Al-Janoub-Stadium.jpeg"
+                     },
+                    "team1": {"flag":"🇨🇭", "name": "Suíça"},
+                    "team2": {"flag":"🇨🇲", "name": "Camarões"},
+                    "date": "2022-11-24T10:00:00Z"
+                },
+                {
+                    "stadium": {
+                        "name": "LUSAIL",
+                        "image": "https://1jgabriel.github.io/statics/Lusail-Stadium.jpeg"
+                    },
+                    "team1": {"flag":"🇧🇷", "name": "Brasil"},
+                    "team2": {"flag":"🇷🇸", "name": "Sérvia"},
+                    "date": "2022-11-24T19:00:00Z"
+                }
+            ]
+        },
+        {
+            "name": "2ª RODADA",
+            "matches": [
+                {
+                    "stadium":{
+                        "name":"AL JANOUB",
+                        "image":"https://1jgabriel.github.io/statics/Al-Janoub-Stadium.jpeg"
+                     },
+                    "team1": {"flag":"🇨🇲", "name": "Camarões"},
+                    "team2": {"flag":"🇷🇸", "name": "Sérvia"},
+                    "date": "2022-11-28T10:00:00Z"
+                },
+                {
+                    "stadium":{
+                        "name":"ESTÁDIO 974",
+                        "image":"https://1jgabriel.github.io/statics/Stadium-974.jpeg"
+                     },
+                    "team1": {"flag":"🇧🇷", "name": "Brasil"},
+                    "team2": {"flag":"🇨🇭", "name": "Suíça"},
+                    "date": "2022-11-28T16:00:00Z"
+                }
+            ]
+        },
+        {
+            "name": "3ª RODADA",
+            "matches": [
+                {
+                    "stadium": {
+                        "name": "LUSAIL",
+                        "image": "https://1jgabriel.github.io/statics/Lusail-Stadium.jpeg"
+                    },
+                    "team1": {"flag":"🇨🇲", "name": "Camarões"},
+                    "team2": {"flag":"🇧🇷", "name": "Brasil"},
+                    "date": "2022-12-02T19:00:00Z"
+                },
+                {
+                    "stadium":{
+                        "name":"ESTÁDIO 974",
+                        "image":"https://1jgabriel.github.io/statics/Stadium-974.jpeg"
+                     },
+                    "team1": {"flag":"🇷🇸", "name": "Sérvia"},
+                    "team2": {"flag":"🇨🇭", "name": "Suíça"},
+                    "date": "2022-12-02T19:00:00Z"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "rounds": [
+        {
+            "name": "1ª RODADA",
+            "matches": [
+                {
+                    "stadium":{
+                        "name":"INTERNACIONAL KHALIFA",
+                        "image":"https://1jgabriel.github.io/statics/Khalifa-International-Stadium.jpeg"
+                     },
+                    "team1": {"flag":"🇩🇪", "name": "Alemanha"},
+                    "team2": {"flag":"🇯🇵", "name": "Japão"},
+                    "date": "2022-11-23T13:00:00Z"
+                },
+                {
+                    "stadium":{
+                        "name":"AL THUMAMA",
+                        "image":"https://1jgabriel.github.io/statics/Al-Thumama-Stadium.jpeg"
+                     },
+                    "team1": {"flag":"🇪🇸", "name": "Espanha"},
+                    "team2": {"flag":"🇨🇷", "name": "Costa Rica"},
+                    "date": "2022-11-23T16:00:00Z"
+                }
+            ]
+        },
+        {
+            "name": "2ª RODADA",
+            "matches": [
+                {
+                    "stadium": {
+                        "name": "AHMAD BIN ALI",
+                        "image": "https://1jgabriel.github.io/statics/Ahmad-Bin-Ali-Stadium.jpeg"
+                    },
+                    "team1": {"flag":"🇯🇵", "name": "Japão"},
+                    "team2": {"flag":"🇨🇷", "name": "Costa Rica"},
+                    "date": "2022-11-27T10:00:00Z"
+                },
+                {
+                    "stadium": {
+                        "name": "AL BAYT",
+                        "image": "https://1jgabriel.github.io/statics/Al-Bayt-Stadium.webp"
+                    },
+                    "team1": {"flag":"🇪🇸", "name": "Espanha"},
+                    "team2": {"flag":"🇩🇪", "name": "Alemanha"},
+                    "date": "2022-11-27T19:00:00Z"
+                }
+            ]
+        },
+        {
+            "name": "3ª RODADA",
+            "matches": [
+                {
+                    "stadium":{
+                        "name":"INTERNACIONAL KHALIFA",
+                        "image":"https://1jgabriel.github.io/statics/Khalifa-International-Stadium.jpeg"
+                     },
+                    "team1": {"flag":"🇯🇵", "name": "Japão"},
+                    "team2": {"flag":"🇪🇸", "name": "Espanha"},
+                    "date": "2022-12-01T19:00:00Z"
+                },
+                {
+                    "stadium": {
+                        "name": "AL BAYT",
+                        "image": "https://1jgabriel.github.io/statics/Al-Bayt-Stadium.webp"
+                    },
+                    "team1": {"flag":"🇨🇷", "name": "Costa Rica"},
+                    "team2": {"flag":"🇩🇪", "name": "Alemanha"},
+                    "date": "2022-12-01T19:00:00Z"
+                }
+            ]
+        }
+    ]
+}

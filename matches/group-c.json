@@ -1,0 +1,73 @@
+{
+    "rounds": [
+        {
+            "name": "1ª RODADA",
+            "matches": [
+                {
+                    "stadium": {
+                        "name": "LUSAIL",
+                        "image": "https://1jgabriel.github.io/statics/Lusail-Stadium.jpeg"
+                    },
+                    "team1": {"flag":"🇦🇷", "name": "Argentina"},
+                    "team2": {"flag":"🇸🇦", "name": "Arábia Saudita"},
+                    "date": "2022-11-22T10:00:00Z"
+                },
+                {
+                    "stadium": {
+                        "name": "ESTÁDIO 974",
+                        "image": "https://1jgabriel.github.io/statics/Stadium-974.jpeg"
+                    },
+                    "team1": {"flag":"🇲🇽", "name": "México"},
+                    "team2": {"flag":"🇵🇱", "name": "Polônia"},
+                    "date": "2022-11-22T16:00:00Z"
+                }
+            ]
+        },
+        {
+            "name": "2ª RODADA",
+            "matches": [
+                {
+                    "stadium": {
+                        "name": "CIDADE DA EDUCAÇÃO",
+                        "image": "https://1jgabriel.github.io/statics/Education-City-Stadium.webp"
+                    },
+                    "team1": {"flag":"🇵🇱", "name": "Polônia"},
+                    "team2": {"flag":"🇸🇦", "name": "Arábia Saudita"},
+                    "date": "2022-11-26T13:00:00Z"
+                },
+                {
+                    "stadium": {
+                        "name": "LUSAIL",
+                        "image": "https://1jgabriel.github.io/statics/Lusail-Stadium.jpeg"
+                    },
+                    "team1": {"flag":"🇦🇷", "name": "Argentina"},
+                    "team2": {"flag":"🇲🇽", "name": "México"},
+                    "date": "2022-11-26T19:00:00Z"
+                }
+            ]
+        },
+        {
+            "name": "3ª RODADA",
+            "matches": [
+                {
+                    "stadium": {
+                        "name": "ESTÁDIO 974",
+                        "image": "https://1jgabriel.github.io/statics/Stadium-974.jpeg"
+                    },
+                    "team1": {"flag":"🇵🇱", "name": "Polônia"},
+                    "team2": {"flag":"🇦🇷", "name": "Argentina"},
+                    "date": "2022-11-30T19:00:00Z"
+                },
+                {
+                    "stadium": {
+                        "name": "LUSAIL",
+                        "image": "https://1jgabriel.github.io/statics/Lusail-Stadium.jpeg"
+                    },
+                    "team1": {"flag":"🇸🇦", "name": "Arábia Saudita"},
+                    "team2": {"flag":"🇲🇽", "name": "México"},
+                    "date": "2022-11-30T19:00:00Z"
+                }
+            ]
+        }
+    ]
+}

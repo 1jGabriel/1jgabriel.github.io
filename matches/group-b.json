@@ -8,8 +8,14 @@
                         "name": "INTERNACIONAL KHALIFA",
                         "image": "https://1jgabriel.github.io/statics/Khalifa-International-Stadium.jpeg"
                     },
-                    "team1": "GB-ENG",
-                    "team2": "IR",
+                    "team1":{
+                        "name":"Inglaterra",
+                        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+                     },
+                    "team2":{
+                        "flag": "🇮🇪",
+                        "name": "Irlanda"
+                    } ,
                     "date": "2022-11-21T13:00:00Z"
                 },
                 {
@@ -17,8 +23,8 @@
                         "name": "AHMAD BIN ALI",
                         "image": "https://1jgabriel.github.io/statics/Ahmad-Bin-Ali-Stadium.jpeg"
                     },
-                    "team1": "US",
-                    "team2": "GB-WLS",
+                    "team1": {"flag":"🇺🇸", "name": "Estados Unidos"},
+                    "team2": {"flag":"🏴󠁧󠁢󠁷󠁬󠁳󠁿", "name": "País de Gales"},
                     "date": "2022-11-21T19:00:00Z"
                 }
             ]
@@ -31,8 +37,11 @@
                         "name": "AHMAD BIN ALI",
                         "image": "https://1jgabriel.github.io/statics/Ahmad-Bin-Ali-Stadium.jpeg"
                     },
-                    "team1": "GB-WLS",
-                    "team2": "IR",
+                    "team1": {"flag":"🏴󠁧󠁢󠁷󠁬󠁳󠁿", "name": "País de Gales"},
+                    "team2": {
+                        "flag": "🇮🇪",
+                        "name": "Irlanda"
+                    },
                     "date": "2022-11-25T10:00:00Z"
                 },
                 {
@@ -40,8 +49,11 @@
                         "name": "AL BAYT",
                         "image": "https://1jgabriel.github.io/statics/Al-Bayt-Stadium.webp"
                     },
-                    "team1": "GB-ENG",
-                    "team2": "US",
+                    "team1": {
+                        "name":"Inglaterra",
+                        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+                     },
+                    "team2": {"flag":"🇺🇸", "name": "Estados Unidos"},
                     "date": "2022-11-25T19:00:00Z"
                 }
             ]
@@ -54,8 +66,11 @@
                         "name": "AL THUMAMA",
                         "image": "https://1jgabriel.github.io/statics/Al-Thumama-Stadium.jpeg"
                     },
-                    "team1": "IR",
-                    "team2": "US",
+                    "team1": {
+                        "flag": "🇮🇪",
+                        "name": "Irlanda"
+                    },
+                    "team2": {"flag":"🇺🇸", "name": "Estados Unidos"},
                     "date": "2022-11-29T19:00:00Z"
                 },
                 {
@@ -63,8 +78,11 @@
                         "name": "AHMAD BIN ALI",
                         "image": "https://1jgabriel.github.io/statics/Ahmad-Bin-Ali-Stadium.jpeg"
                     },
-                    "team1": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
-                    "team2": "GB-ENG",
+                    "team1": {"flag":"🏴󠁧󠁢󠁷󠁬󠁳󠁿", "name": "País de Gales"},
+                    "team2": {
+                        "name":"Inglaterra",
+                        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+                     },
                     "date": "2022-11-29T19:00:00Z"
                 }
             ]
