@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "br.com.cora.bank.stage",
+    "sha256_cert_fingerprints":
+    ["21:0B:41:FC:45:CD:F0:BF:24:B1:02:D4:A4:1B:8E:A8:F3:8E:CD:52:B5:73:C4:34:2E:9C:23:DF:92:47:1B:E3"]
+  }
+}]
